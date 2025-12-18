@@ -121,7 +121,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3FCBGFPqNmYmkhp3z5AB" name="Page-2">
-    <mxGraphModel dx="2160" dy="3202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1481" dy="3040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -537,6 +537,130 @@
         </mxCell>
         <mxCell id="ndcd_NdeZWepJPZR3cw7-105" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h2&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;成为现实前的假象&lt;/font&gt;&lt;/h2&gt;" vertex="1">
           <mxGeometry height="30" width="155" x="3070" y="-1" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-119" edge="1" parent="1" source="ndcd_NdeZWepJPZR3cw7-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="ndcd_NdeZWepJPZR3cw7-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;可能性1&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1840" y="1217" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-129" edge="1" parent="1" source="ndcd_NdeZWepJPZR3cw7-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2270" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;偶然性&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="136" x="2057" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-114" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2004" y="1540" as="sourcePoint" />
+            <mxPoint x="2004.46" y="1137" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-115" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;内在本质&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1820" y="1485" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;偶然性变成另一事物的可能性&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2265" y="1435" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;可能性3&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1840" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-118" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;可能性2&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1840" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-122" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2440" y="1750" as="sourcePoint" />
+            <mxPoint x="2440" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-123" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;内&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="2120" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-124" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;外&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="2470" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-125" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;偶然性&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="136" x="2493" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-127" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;新的现实性&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2486" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;可能性&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2280" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-131" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;直接的外在现实性&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2057" y="1485" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-132" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;直接现实性包含转化为他物的萌芽在其内&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2170" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-134" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;新的现实是前面的直接现实性的本质的发展&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="249" x="2481" y="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-137" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="270" width="270" x="1876" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-136" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;可能性&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="1951" y="1915" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-138" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;偶然性&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1936" y="2060" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-139" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2160" y="1970" as="sourcePoint" />
+            <mxPoint x="2340" y="1970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-140" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="270" width="270" x="2366" y="1830" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-141" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;可能性&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="2441" y="1905" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-142" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;偶然性&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2426" y="2050" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-145" edge="1" parent="1" source="ndcd_NdeZWepJPZR3cw7-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ndcd_NdeZWepJPZR3cw7-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-143" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;可能性&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="1950" y="2410" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-146" edge="1" parent="1" source="ndcd_NdeZWepJPZR3cw7-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ndcd_NdeZWepJPZR3cw7-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2260" y="2550" />
+              <mxPoint x="2010" y="2550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-144" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;直接现实性&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="2200" y="2420" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-148" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="250" width="620" x="1920" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-149" parent="ndcd_NdeZWepJPZR3cw7-148" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;必然性&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="470" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-150" edge="1" parent="1" source="ndcd_NdeZWepJPZR3cw7-148" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.518;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="2240" y="2270" />
+              <mxPoint x="2620" y="2270" />
+              <mxPoint x="2620" y="2720" />
+              <mxPoint x="2230" y="2720" />
+            </Array>
+            <mxPoint x="2190" y="2330" as="sourcePoint" />
+            <mxPoint x="2230" y="2620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndcd_NdeZWepJPZR3cw7-151" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;作为内与外合二为一的更替，作为内与外的两个相反的运动联合成为一个运动的交替，就是必然性&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="2640" y="2450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
