@@ -413,8 +413,8 @@
         <mxCell id="ufgVfiw-G9ytdvid_Nuq-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;管理员工花了&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="340" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="ufgVfiw-G9ytdvid_Nuq-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;仓库里的存货&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="160" x="340" y="410" as="geometry" />
+        <mxCell id="ufgVfiw-G9ytdvid_Nuq-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;欠供应商的负债&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="340" y="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
